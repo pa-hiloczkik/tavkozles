@@ -1,7 +1,7 @@
 # RC Szuro
 ## Mérés 1
-<img width="748" height="452" alt="circuit-20251006-0956" src="https://github.com/user-attachments/assets/acebf699-7963-4001-a416-9d3dc0aeab8e" />
-|Freki (Hz)|	|Uki (V)|
+<img width="748" height="452" alt="circuit-20251006-0956" src="https://github.com/user-attachments/assets/acebf699-7963-4001-a416-9d3dc0aeab8e" />  
+   |Freki (Hz)|	|Uki (V)|
 |----------|  |--------|
 1000 Hz |	0,967 V |
 2000 Hz	| 0,884 V |

@@ -1,7 +1,7 @@
 # RC Szuro
 ## Mérés 1
 <img width="500" height="350" alt="circuit-20251006-0956" src="https://github.com/user-attachments/assets/acebf699-7963-4001-a416-9d3dc0aeab8e" />    
-------
+| -----|
 <img width="190" height="85" alt="image" src="https://github.com/user-attachments/assets/ec5c5634-de06-4511-b14d-aff08dee5c19" />
 
 

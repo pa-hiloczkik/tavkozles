@@ -1,8 +1,12 @@
 # RC Szuro
 ## Mérés 1
 <img width="748" height="452" alt="circuit-20251006-0956" src="https://github.com/user-attachments/assets/acebf699-7963-4001-a416-9d3dc0aeab8e" />  
+
+| oszlop1 | oszlop2 | oszlop3 |
+| ------- | ------- | ------- |
+| Hell | yeah | crazy | 
 |  Freki (Hz)  |	|  Uki (V)  |
-|-----------------------------|
+|------------|  |-------------|
 1000 Hz |	0,967 V |
 2000 Hz	| 0,884 V |
 2500 Hz	| 0,834 V |

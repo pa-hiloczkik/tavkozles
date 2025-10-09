@@ -11,4 +11,6 @@ A mérés célja a **DVB-T** jel paramétereinek ellenőrzése a földfelszíni 
 **Antenna típusa:** P-2845 F   
 **Antenna magassága:** 1.6 méter  
 **Környezet jellemzői:** V3 labor, városi körülmények között  
-**Adó távolsága:** kb 100 méter.
+**Adó távolsága:** kb 700 méter.  
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/08a8942c-f057-4fda-a083-ee52c0e7ae70" />
+

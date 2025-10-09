@@ -1,6 +1,14 @@
-# DVB-T mérés jegyzőkönyv
-### Mérés helye: ** Miskolci Kandó Kálmán Informatikai Technikum.
-### Mérés időpontja: 2025.10.09.
-### Mérő műszerek:
-### Felelős személy: Hilóczki Krisztián, Palágyi József.
-### Cél: A DVB-T jel minőségi paramétereinek mérése.
+# DVB-T mérés jegyzőkönyv 🔌
+**Mérés helye:** Miskolci Kandó Kálmán Informatikai Technikum.  
+**Mérés időpontja:** 2025.10.09.  
+**Mérő műszerek:**  
+**Felelős személy:** Hilóczki Krisztián, Palágyi József.  
+**Cél:** A DVB-T jel minőségi paramétereinek mérése.  
+# 1. Bevezetés
+A mérés célja a **DVB-T** jel paramétereinek ellenőrzése a földfelszíni digitális műsorszórás során. A mérési pont a **V3 LABOR**, ahol a DVB-T adások vételének minőségét értékeljük.  
+# 2. Mérési helyszín és környezet
+**Kordináták:** 48°06’20”N 20°46’48”E  
+**Antenna típusa:** P-2845 F   
+**Antenna magassága:** 1.6 méter  
+**Környezet jellemzői:** V3 labor, városi körülmények között  
+**Adó távolsága:** kb 100 méter.

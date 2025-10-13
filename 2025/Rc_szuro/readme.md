@@ -14,7 +14,7 @@ Számolás: <img width="150" height="70" alt="image" src="https://github.com/use
 2500 Hz	| 0,834 V |
 3000 Hz	| 0,784 V |
 3500 Hz	| 0,734 V |
-3800 Hz	| 0,709 V |
+**3800 Hz**	| **0,709 V** |
 4500 Hz	| 0,643 V |
 5000 Hz	| 0,601 V |
 6000 Hz	|0,532 V  |

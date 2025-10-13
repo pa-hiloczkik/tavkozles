@@ -23,5 +23,5 @@ Számolás: <img width="150" height="70" alt="image" src="https://github.com/use
 8000 Hz	|0,424 V  |
 10000 Hz| 0,351 V |
 15000 Hz|	0,240 V |
-<img width="749" height="465" alt="image" src="https://github.com/user-attachments/assets/db021664-c39d-47c1-a511-f1fd7737eb7a" />
+<img width="720" height="462" alt="image" src="https://github.com/user-attachments/assets/f3c9500e-5c6c-4d77-99f6-f97468dd0c8a" />
 

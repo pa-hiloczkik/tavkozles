@@ -1,10 +1,13 @@
 # RC Szuro
 ## Mérés 1
+Adatok:  
+R= 7 ohm  
+C= 6 μF  
 <img width="500" height="350" alt="circuit-20251006-0956" src="https://github.com/user-attachments/assets/acebf699-7963-4001-a416-9d3dc0aeab8e" />    
 
 | Freki (Hz) | Uki (V)  | 
 | ------- | ------- | 
-1000 Hz |	0,967 V |
+1000 Hz |	0,967 V |  
 2000 Hz	| 0,884 V |
 2500 Hz	| 0,834 V |
 3000 Hz	| 0,784 V |

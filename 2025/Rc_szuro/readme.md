@@ -3,7 +3,8 @@
 Adatok:  
 R= 7 ohm  
 C= 6 μF  
-Számolás: <img width="150" height="70" alt="image" src="https://github.com/user-attachments/assets/0800e1c0-5c5f-4a9e-ab90-859e314bb2e5" />  
+Számolás: <img width="150" height="70" alt="image" src="https://github.com/user-attachments/assets/0800e1c0-5c5f-4a9e-ab90-859e314bb2e5" /> <img width="300" height="70" alt="image" src="https://github.com/user-attachments/assets/616e0f59-095d-46bf-998b-980f07cf4b55" />
+
 
 <img width="500" height="350" alt="circuit-20251006-0956" src="https://github.com/user-attachments/assets/acebf699-7963-4001-a416-9d3dc0aeab8e" />    
 

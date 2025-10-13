@@ -17,3 +17,4 @@
 8000 Hz	|0,424 V  |
 10000 Hz| 0,351 V |
 15000 Hz|	0,240 V |
+<img width="750" height="465" alt="image" src="https://github.com/user-attachments/assets/2253db3a-e845-4443-9c1a-6010d08af3e2" />

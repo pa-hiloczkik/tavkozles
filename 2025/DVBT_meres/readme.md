@@ -14,12 +14,12 @@ A mérés célja a **DVB-T** jel paramétereinek ellenőrzése a földfelszíni 
 **Adó távolsága:** kb 700 méter.  
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/08a8942c-f057-4fda-a083-ee52c0e7ae70" />  
 # 3. Mérési paraméterek
-| Paraméter |	Érték |
-| Adó frekvencia |	666 MHz |
-|Sávszélesség	| 8MHz |
-|Moduláció típusa |	64-QAM, 8K, 1/4 |
-|Jelerősség (RSSI) |	63.8 dBu |
-|MER |	29.0 dB |
-|Noise Margin	| 12.0 |
-|Hiba nélkül vett adás időtartama	| 200 sec |
+| Paraméter |	Érték |  
+Adó frekvencia |	666 MHz |  
+Sávszélesség	| 8MHz |  
+Moduláció típusa |	64-QAM, 8K, 1/4 |  
+Jelerősség (RSSI) |	63.8 dBu |  
+MER |	29.0 dB |  
+Noise Margin	| 12.0 |  
+Hiba nélkül vett adás időtartama	| 200 sec |  
 

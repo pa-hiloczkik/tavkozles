@@ -1,6 +1,6 @@
 # DVB-T mérés jegyzőkönyv 🔌
 **Mérés helye:** Miskolci Kandó Kálmán Informatikai Technikum.  
-**Mérés időpontja:** 2025.10.09.  
+**Mérés időpontja:** 2025.10.15  
 **Mérő műszerek:**  
 **Felelős személy:** Hilóczki Krisztián, Palágyi József.  
 **Cél:** A DVB-T jel minőségi paramétereinek mérése.  
@@ -24,16 +24,18 @@ Jelerősség (RSSI) |	43.9 dBu |
 MER |	20.8 dB |  
 Noise Margin	| 17.0 |  
 Hiba nélkül vett adás időtartama	| 200 sec |    
-**A Miskolci TV adótorony által sugárzott frekvenciák**
-<img width="700" height="333" alt="image" src="https://github.com/user-attachments/assets/b7dbd021-a0a4-44e6-a9d2-91a6c5562b61" />
-**A CH41-es csatornán mért jelerősség, jel/zaj viszony, és bithibák**
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/9a6f1981-3301-4431-bb3d-40fc77026852" />
-**A CH41-es csatorna konstellációs diagramja**
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/49149056-fc16-44d0-91a7-d95945b04543" />
-**A CH41-es csatornán a Miskolc TV jelszint és TV adás**
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/fef73515-85d1-45a2-9c34-7ddb008577ce" />
-**A CH41-es csatornán a Miskolc TV műsora**
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/41e87aeb-29b2-46d4-b3fa-a0c2469408d8" />
+**A Miskolci TV adótorony által sugárzott frekvenciák**  
+  
+<img width="700" height="333" alt="image" src="https://github.com/user-attachments/assets/b7dbd021-a0a4-44e6-a9d2-91a6c5562b61" />  
+  
+**A CH41-es csatornán mért jelerősség, jel/zaj viszony, és bithibák**  
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/9a6f1981-3301-4431-bb3d-40fc77026852" />    
+**A CH41-es csatorna konstellációs diagramja**  
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/49149056-fc16-44d0-91a7-d95945b04543" />  
+**A CH41-es csatornán a Miskolc TV jelszint és TV adás**  
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/fef73515-85d1-45a2-9c34-7ddb008577ce" />  
+**A CH41-es csatornán a Miskolc TV műsora**  
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/41e87aeb-29b2-46d4-b3fa-a0c2469408d8" />    
 # 4. Mérési eredmények
 **Jelerősség:** A mért jelerősség 44 dBu. Ez az érték stabil volt 200 másodperces időtartam alatt, és megfelel a DVB-T előírásoknak. A mérési helyen a jel optimális volt.  
 Modulációs paraméterek: A DVBT moduláció esetén a mért jel/zaj viszony (SNR) 12 dB körül váltakozott, ami megfelel a követelményeknek.
@@ -45,7 +47,10 @@ A mérési helyen a DVB-T jel stabil és megfelelő minőségű.
 A rendszer modulációs és vételi paraméterei kielégítik a DVB-T előírásokat.
 A jel/zaj viszony és a jelminőség értékei optimálisak voltak a földfelszíni sugárzás vételéhez.  
 # 7. Javaslatok
-Ha szükséges, meg kell vizsgálni az antennarendszer fejlesztésének lehetőségét, vagy további méréseket kell végezni különböző időjárási körülmények között, hogy hosszú távon is biztosított legyen a megfelelő minőségű vétel.
+Ha szükséges, meg kell vizsgálni az antennarendszer fejlesztésének lehetőségét, vagy további méréseket kell végezni különböző időjárási körülmények között, hogy hosszú távon is biztosított legyen a megfelelő minőségű vétel.   
+**Aláírás**:
+*Felelős személy*: **Hilóczki Krisztián**
+*Dátum*: **2025.10.15**
 
 
 

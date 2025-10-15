@@ -48,9 +48,9 @@ A rendszer modulációs és vételi paraméterei kielégítik a DVB-T előírás
 A jel/zaj viszony és a jelminőség értékei optimálisak voltak a földfelszíni sugárzás vételéhez.  
 # 7. Javaslatok
 Ha szükséges, meg kell vizsgálni az antennarendszer fejlesztésének lehetőségét, vagy további méréseket kell végezni különböző időjárási körülmények között, hogy hosszú távon is biztosított legyen a megfelelő minőségű vétel.   
-**Aláírás**:
-*Felelős személy*: **Hilóczki Krisztián**
-*Dátum*: **2025.10.15**
+**Aláírás**:  
+*Felelős személy*: ***Hilóczki Krisztián***  
+*Dátum*: ***2025.10.15***
 
 
 

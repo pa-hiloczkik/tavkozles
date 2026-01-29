@@ -1,8 +1,8 @@
 # MÉRÉSI JEGYZŐKÖNYV
-**Téma:** Nem invertáló alapkapcsolás vizsgálata TL071 műveleti erősítővel
-**Mérés helye:** [V3 Labor]
-**Mérés ideje:** 2026. [01] [28]
-**Mérést végezte:** [Hilóczki Krisztián]
+**Téma:** Nem invertáló alapkapcsolás vizsgálata TL071 műveleti erősítővel  
+**Mérés helye:** [V3 Labor]  
+**Mérés ideje:** 2026. [01] [28]  
+**Mérést végezte:** [Hilóczki Krisztián]  
 
 ---
 
@@ -61,13 +61,6 @@ Az áramkör kimenetét és bemenetét az NI ELVISmx oszcilloszkópjával vizsg�
 A mért csúcstól-csúcsig feszültségek ($V_{pp}$) aránya alapján:
 
 $$A_{v,mért} = \frac{U_{ki}}{U_{be}} = \frac{9,488\ V}{1,003\ V} \approx \mathbf{9,46}$$
-
-**Hiba számítása:**
-Az elméleti és a mért erősítés közötti eltérés (relatív hiba):
-
-$$Hiba \% = \left| \frac{A_{v,mért} - A_{v,elm}}{A_{v,elm}} \right| \cdot 100$$
-
-$$Hiba \% = \left| \frac{9,46 - 9,517}{9,517} \right| \cdot 100 \approx \mathbf{0,6\%}$$
 
 ## 7. Összegzés
 A mérés során sikeresen összeállítottuk és vizsgáltuk a TL071 műveleti erősítővel felépített nem invertáló kapcsolást.

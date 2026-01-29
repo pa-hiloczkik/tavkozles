@@ -1,8 +1,8 @@
 # MÉRÉSI JEGYZŐKÖNYV
 **Téma:** Nem invertáló alapkapcsolás vizsgálata TL071 műveleti erősítővel  
-**Mérés helye:** [V3 Labor]  
-**Mérés ideje:** 2026. [01] [28]  
-**Mérést végezte:** [Hilóczki Krisztián]  
+**Mérés helye:** V3 Labor  
+**Mérés ideje:** 2026.01.28.  
+**Mérést végezte:** Hilóczki Krisztián  
 
 ---
 
